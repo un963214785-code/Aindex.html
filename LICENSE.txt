@@ -1,0 +1,15 @@
+LICENSE
+
+This template is licensed for personal and commercial use.
+
+You are allowed to:
+
+* Use in personal projects
+* Use in client projects
+* Modify the template
+
+You are NOT allowed to:
+
+* Resell or redistribute this template as-is
+
+© 2026 NEU Creative Template
